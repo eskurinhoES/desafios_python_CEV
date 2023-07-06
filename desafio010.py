@@ -1,4 +1,4 @@
-#Programa que converte o valor em reais informado pelo usuário e
+#Programa que lê o valor em reais informado pelo usuário e
 #converte para dólar
 cotacao = 3.27
 reais = float(input('Digite o valor que deseja converter: R$ '))
